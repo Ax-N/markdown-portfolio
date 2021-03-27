@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+_## Languages I know_
+**Beginer Level in _C++_, _C#_, and _JavaScript_**
+__Currently Learning and Practicing *Python*__
