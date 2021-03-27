@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+![Image of Red and his Pokemon](https://wallpaperaccess.com/full/379268.jpg)
