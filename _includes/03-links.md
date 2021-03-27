@@ -1,1 +1,1 @@
-![Image of Red and his Pokemon](https://wallpaperaccess.com/full/379268.jpg)
+[Link to my GitHub Profile](https://github.com/Ax-N)
